@@ -1,0 +1,68 @@
+.txt{
+    font-family: "Uber Move Text";
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 2.5rem;
+
+} 
+.imgimayl{
+    width: 50%;
+    height: 50%;
+    padding-left: 26%;
+}
+.imayl{
+    background-color: black;
+}
+.footer-page{
+    display: flex;
+}
+.callimg{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+.chatimg{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+.starimg{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+.shareimg{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+.google{
+    padding-left: 140px;
+    padding-right: 30px;
+    padding-top: 20px;
+    width: 55%;
+}
+.appstore{
+    padding-right: 30px;
+    width: 65%;
+    padding-top: 23px;
+}
+.imaylimg{
+    padding-left: 40px;
+    float:left;
+    width:30%;
+    background-color: black;
+
+}
+.boundtxt{
+    color: #fff;
+    float:left;
+    font-size: 16px;
+    text-align: center; padding-left: 12%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;background-color: black;
+}
+.btn{
+     background-color: rgb(7, 65, 131); font-size: 24px;color: #fff;border-color:#0d6efd ;margin-left: 3%;
+    font-size: 1rem;
+}
